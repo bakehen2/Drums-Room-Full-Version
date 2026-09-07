@@ -236,3 +236,6 @@ This repository serves as the official landing page for Drums Room. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Drums Room today!**
+
+---
+**Last updated:** 2026-09-07 18:38:47 UTC
